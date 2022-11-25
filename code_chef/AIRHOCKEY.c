@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
 	int t,x,y,max,p;
 	scanf("%d",&t);
 	while(t--)
