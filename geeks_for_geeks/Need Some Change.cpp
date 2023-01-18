@@ -1,16 +1,4 @@
-N//{ Driver Code Starts
-//Initial Template for C++
-#include <iostream>
-using namespace std;
 
-
-// } Driver Code Ends
-//User function Template for C++
-
-/*Function to swap array elements
-* arr : array input
-* sizeof_array : number of elements in array
-*/
 class Solution{
   public:
     void swapElements(int a[], int n){
